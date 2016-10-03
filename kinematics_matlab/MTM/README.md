@@ -1,0 +1,1 @@
+## This file contains info about the usage of the software.
